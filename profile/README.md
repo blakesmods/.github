@@ -1,6 +1,6 @@
 # Blake's Mods
 
-This orginzation contains the software relating to the Blake's Mods website (https://blakesmods.com). To view the source code for the mods themselves you can follow the links below.
+This organization contains the software relating to the Blake's Mods website (https://blakesmods.com). To view the source code for the mods themselves you can follow the links below.
 
 ## Mods
 - Mystical Agriculture - [Website](https://blakesmods.com/mystical-agriculture) / [GitHub](https://github.com/BlakeBr0/MysticalAgriculture)
